@@ -1,0 +1,56 @@
+	img{
+		height: 8px;
+	}
+	/*.btns{
+		margin-left: 200px;
+	}*/
+
+	.b{
+		height: 60px;
+		border-radius: 0px
+		border:1px grey solid;
+	}
+	.b:hover{
+		background: #7B1FA2;
+		color: white;
+	}
+	/*a{
+		border: 1px solid grey;
+		padding: 30px;
+		color: black;
+	}
+	a:hover{
+		background: grey;
+		color: white;
+		text-decoration: none;
+	}*/
+
+	.test{
+		border: 1px dotted red;
+	}
+.login{
+	border: 1px solid gray;
+	border-radius: 5px;
+	background: #4CAF50;
+	margin-bottom: 5px;
+	padding: 5px 5px;
+}
+.whitebar{
+	background:white;
+	min-height: 5px;
+	color: white;
+}
+#heading{
+	text-transform: uppercase;
+	font: bold;
+	color: #0d47a1;
+}
+.grey{
+	color: gold;
+}
+.white{
+	color: white;
+}
+a button{
+	border-radius: 0px;
+}
